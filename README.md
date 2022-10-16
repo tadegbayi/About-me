@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tadegbayi
+- 👋 Hi, I’m Taiwo Adegbayi
 - 👀 I am a Business Intelligence Analyst for one of the biggest banks in Nigeria.
 - 🌱 I am expert at Excel, SQL, Python, Tableau, Power BI; and with great sets of soft skills. 
 - 💞️ I’m looking to collaborate on Data Analytics Projects to further hone my skill sets.
